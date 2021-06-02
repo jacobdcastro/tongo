@@ -1,0 +1,27 @@
+// $primary: #2FE078;
+$green: #00c853;
+$heroImage: 'https://storage.googleapis.com/letstongostatic/photo-1540840430747-71880eb5b5ba.jpeg';
+
+* {
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  text-decoration: none;
+}
+
+html,
+body {
+  font-family: 'Montserrat', sans-serif !important;
+  background: #fff !important;
+  min-height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: $green;
+  -webkit-touch-callout: none;
+  -webkit-backface-visibility: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding: 0 !important;
+}
+
+button:hover {
+  cursor: pointer;
+}

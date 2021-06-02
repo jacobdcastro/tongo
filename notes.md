@@ -1,0 +1,2 @@
+- use 'today, tomorrow' verbiage (header chip, listing card times)
+- consistent all caps for offer title

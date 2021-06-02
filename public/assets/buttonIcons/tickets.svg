@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_1411" data-name="Group 1411" transform="translate(-6006 -4172)">
+    <g id="Group_1410" data-name="Group 1410">
+      <circle id="Ellipse_415" data-name="Ellipse 415" cx="20" cy="20" r="20" transform="translate(6006 4172)" fill="rgba(47,224,120,0.1)"/>
+      <path id="Path_2300" data-name="Path 2300" d="M0,0H24V24H0Z" transform="translate(6014 4180)" fill="none"/>
+      <g id="local_activity-24px" transform="translate(6014 4180)">
+        <path id="Path_2311" data-name="Path 2311" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_2312" data-name="Path 2312" d="M20,12a2,2,0,0,1,1.06-1.76A1.93,1.93,0,0,0,22,8.54V6a2.006,2.006,0,0,0-2-2H4A1.989,1.989,0,0,0,2.01,5.99V8.54a1.882,1.882,0,0,0,.94,1.69A2.02,2.02,0,0,1,4,12a1.99,1.99,0,0,1-1.06,1.76A1.93,1.93,0,0,0,2,15.46V18a2.006,2.006,0,0,0,2,2H20a2.006,2.006,0,0,0,2-2V15.46a1.93,1.93,0,0,0-.94-1.7A2,2,0,0,1,20,12Zm-5.5,4.1L12,14.5,9.5,16.11a.5.5,0,0,1-.75-.55l.75-2.88L7.2,10.8a.5.5,0,0,1,.29-.89l2.96-.17,1.08-2.75a.5.5,0,0,1,.93,0l1.08,2.76,2.96.17a.5.5,0,0,1,.29.89l-2.3,1.88.76,2.86a.5.5,0,0,1-.75.55Z" fill="#2fe078"/>
+      </g>
+    </g>
+  </g>
+</svg>
